@@ -223,13 +223,8 @@ with the DRS) should be able to work around it.
 ## Academic Integrity Statement
 
 Cheating/plagiarism will _not_ be tolerated. Students suspected of violating
-the University of Pittsburgh Policy on Academic Integrity, from the February
-1974 Senate Committee on Tenure and Academic Freedom reported to the Senate
-Council, will be required to participate in the outlined procedural process as
-initiated by the instructor. A minimum sanction of a zero score for the exam or
-assignment will be imposed.
-
-View the complete policy at www.cfo.pitt.edu/policies/policy/02/02-03-02.html.
+the [SCI Academic Integrity Policy](https://www.sci.pitt.edu/student-resources/policies/academic-integrity-policy) will receive a minimum sanction of a zero
+score for the exam or assignment.
 
 Some guidelines:
 
